@@ -51,7 +51,7 @@ Thinking of creating a web app to easily pull tweets and make analysis.
 ### Useful resources
 
 - [Vader repo](https://github.com/cjhutto/vaderSentiment)
-- [TextBlob](https://textblob.readthedocs.io/en/dev/) documentaion
+- [TextBlob docs](https://textblob.readthedocs.io/en/dev/)
 - [Tqdm repo](https://github.com/tqdm/tqdm#usage)
 - [Jessica Bridgerton Analysis](https://nbviewer.org/github/jess-data/Bridgerton/blob/main/Bridgerton%20Twitter%20Analysis%20Project.ipynb)
 
